@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
   "manifestVersion": "1.5",
   "version": "1.0.0",
-  "id": "260b98fa-4c29-4b5f-ae03-848ed7e11fcf",
-  "packageName": "com.teams.sample.teamsstartnewthreadinchannel",
+  "id": "3b440456-9759-40c3-a231-3da550aa8e77",
+  "packageName": "com.teams.sample.sbot-2",
   "developer": {
-    "name": "sbot-1",
+    "name": "sbot-2",
     "websiteUrl": "https://www.microsoft.com",
     "privacyUrl": "https://www.teams.com/privacy",
     "termsOfUseUrl": "https://www.teams.com/termsofuser"
@@ -15,12 +15,12 @@
     "color": "icon-color.png"
   },
   "name": {
-    "short": "sbot-1",
-    "full": "sbot-1"
+    "short": "sbot-2",
+    "full": "sbot-2"
   },
   "description": {
-    "short": "sbot-1",
-    "full": "sbot-1"
+    "short": "sbot-2",
+    "full": "sbot-2"
   },
   "accentColor": "#FFFFFF",
   "bots": [

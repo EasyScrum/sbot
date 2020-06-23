@@ -71,3 +71,4 @@ C:\backup\_Projects\Scrumbot\mk\sbot\obj\Debug\netcoreapp3.1\staticwebassets\sbo
 C:\backup\_Projects\Scrumbot\mk\sbot\obj\Debug\netcoreapp3.1\sbot.dll
 C:\backup\_Projects\Scrumbot\mk\sbot\obj\Debug\netcoreapp3.1\sbot.pdb
 C:\backup\_Projects\Scrumbot\mk\sbot\obj\Debug\netcoreapp3.1\sbot.genruntimeconfig.cache
+C:\backup\_Projects\Scrumbot\mk\sbot\bin\Debug\netcoreapp3.1\TeamsAppManifest\manifest.json
