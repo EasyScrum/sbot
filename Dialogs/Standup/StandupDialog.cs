@@ -28,8 +28,8 @@ namespace ScrumBot_v1.Dialogs
 
             var slots = new List<SlotDetails>
             {
-                new SlotDetails("doneStuff", "text", "-What did you do ?"),
-                new SlotDetails("plans", "text", "-What are you going to do ?"),
+                new SlotDetails("doneStuff", "text", "What did you do?"),
+                new SlotDetails("plans", "text", "What are you going to do?"),
             };
 
             var dialog = new WaterfallDialog("standup", new WaterfallStep[] {StartDialogAsync, ProcessResultsAsync });
