@@ -3,9 +3,9 @@
   "manifestVersion": "1.5",
   "version": "1.0.0",
   "id": "3b440456-9759-40c3-a231-3da550aa8e77",
-  "packageName": "com.teams.sample.sbot-2",
+  "packageName": "com.teams.sample.scrumbot-2",
   "developer": {
-    "name": "sbot-2",
+    "name": "scrumbot-2",
     "websiteUrl": "https://www.microsoft.com",
     "privacyUrl": "https://www.teams.com/privacy",
     "termsOfUseUrl": "https://www.teams.com/termsofuser"
@@ -15,18 +15,20 @@
     "color": "icon-color.png"
   },
   "name": {
-    "short": "sbot-2",
-    "full": "sbot-2"
+    "short": "scrumbot-2",
+    "full": "scrumbot-2"
   },
   "description": {
-    "short": "sbot-2",
-    "full": "sbot-2"
+    "short": "scrumbot-2",
+    "full": "scrumbot-2"
   },
   "accentColor": "#FFFFFF",
   "bots": [
     {
-      "botId": "de331ef6-a653-415e-a38a-6007cf5117f1",
+      "botId": "3b440456-9759-40c3-a231-3da550aa8e77",
       "scopes": [
+        "personal",
+        "groupchat",
         "team"
       ],
       "supportsFiles": false,
